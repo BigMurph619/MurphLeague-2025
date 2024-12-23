@@ -24,7 +24,8 @@ Competitors' cumulative league points across all 5 tournaments will decide who m
 | :-----------------------------------: |
 | Many of our tournaments include "awards pools" with entry fees to be eligible for awards. Participation in MurphLeague does NOT require entry fees and you are still eligible to make the playoffs |
 | Playoff awards TBA |
-| Tournament tentative schedule: first First through the following 3rd Sunday in the months of February(T1), April(T2), June(T3), August(T4), October(T5) and December(Playoff).
+| Tournament tentative schedule: first First through the following 3rd Sunday in the months of February(T1), April(T2), June(T3), August(T4), October(T5) and December(Playoff). |
+| T1 info: [Murphleague 2025 T1](https://github.com/BigMurph619/Murphmon-Tourney-Feb-2025-T1-/blob/main/readme.md) |
 
 ## Participation Info
 | Links/Participation/FAQ |
