@@ -17,6 +17,21 @@ The 5 tournaments will have points awarded by placement as follows:
 | 2 for 9th          |
 | 1 for 10th or lower |
 
+## MurphLeague Standings
+Updated at the conclusion of each tournament:
+|   Creator/Points   |
+| :----------------: |
+| 1st                |
+| 2nd                |
+| 3rd                |
+| 4th                |
+| 5th                |
+| 6th                |
+| 7th                |
+| 8th                |
+| 9th                |
+| etc.               |
+
 Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Details of the format for the playoff are to come.
 
 ## Additional Info
