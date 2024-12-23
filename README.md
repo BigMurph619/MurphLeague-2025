@@ -23,6 +23,8 @@ Competitors' cumulative league points across all 5 tournaments will decide who m
 | Links/Participation |
 | :-----------------: |
 | [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/BigMurph619/TheMurphVerse) |
+| If you would like to be part of future Murphverse tournaments of the MurphLeague join the [MurphMob discord](https://discord.gg/ctYty73VAT) |
+
 
 # Credits/Useful Links
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/BigMurph619/TheMurphVerse)
