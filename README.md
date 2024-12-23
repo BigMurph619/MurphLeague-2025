@@ -18,7 +18,7 @@ The 5 tournaments will have points awarded by placement as follows:
 | 1 for 10th or lower |
 
 ## MurphLeague Standings
-Updated at the conclusion of each tournament:
+Updated at the conclusion of each tournament. [Standings Breakdown](https://docs.google.com/spreadsheets/d/12CqHtiDd5cc3BUvIFbQXBobXDP4PwcfwebZazZ_RHEE/edit?gid=0#gid=0)
 |   Creator/Points   |
 | :----------------: |
 | 1st                |
