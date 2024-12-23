@@ -4,11 +4,11 @@ MurphLeague is league made up of 5 qualifying tournaments and an 8 person playof
 
 ## League Points Breakdown
 The 5 tournaments will have points awarded by placement as follows:
-|       Points       |
-| :----------------: |
-| 15 for 1st         |
-| 12 for 2nd         |
-| 10 for 3rd         |
+|       Points       |       | Current Standings |
+| :----------------: |       | :---------------: |
+| 15 for 1st         |       | 1. Probably you   |
+| 12 for 2nd         |       | 2. A lot of people |
+| 10 for 3rd         |       | 3. Probably me    |
 | 8 for 4th          |
 | 6 for 5th          |
 | 5 for 6th          |
