@@ -2,7 +2,7 @@
 
 MurphLeague is league made up of 5 qualifying tournaments and an 8 person playoff final.
 
-## Point Breakdown
+## League Points Breakdown
 The 5 tournaments will have points awarded by placement as follows:
 |       Points       |
 | :----------------: |
@@ -16,3 +16,13 @@ The 5 tournaments will have points awarded by placement as follows:
 | 3 for 8th          |
 | 2 for 9th          |
 | 1 for 10th or lower |
+
+Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Details of the format for the playoff are to come.
+
+## Details
+| Links/Participation |
+| :-----------------: |
+| [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/BigMurph619/TheMurphVerse) |
+
+# Credits/Useful Links
+ - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/BigMurph619/TheMurphVerse)
