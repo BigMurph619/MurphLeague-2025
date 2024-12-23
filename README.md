@@ -19,7 +19,7 @@ The 5 tournaments will have points awarded by placement as follows:
 
 Competitors' cumulative league points across all 5 tournaments will decide who makes the 8 competitor playoff. Details of the format for the playoff are to come.
 
-##Additional Info
+## Additional Info
 |       Details Subject to Update       |
 | :-----------------------------------: |
 | Many of our tournaments include "awards pools" with entry fees to be eligible for awards. Participation in MurphLeague does NOT require entry fees and you are still eligible to make the playoffs |
