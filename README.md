@@ -52,3 +52,5 @@ Competitors' cumulative league points across all 5 tournaments will decide who m
 | Creator of IronMON (the foundation and inspiration behind Murphverse challenges): [iateyourpie](https://www.twitch.tv/iateyourpie) |
 | [IronMON Tourney Hub Discord](https://discord.gg/zsqtN6X7Ra) |
 | Head of the IronMON Tourney Hub Discord [Crozwords](https://www.twitch.tv/crozwords) |
+
+As always, Goodluck Challenger.
